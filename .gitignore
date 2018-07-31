@@ -5,3 +5,4 @@ __pycache__/*
 flash.txt
 facial_recognition_model/__pycache__/*
 __pycache__
+facial_recognition_models/models/shape_predictor_68_face_landmarks.dat
