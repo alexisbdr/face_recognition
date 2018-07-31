@@ -1,0 +1,7 @@
+venv*
+*.swp
+dlib/face_data/*
+__pycache__/*
+flash.txt
+facial_recognition_model/__pycache__/*
+__pycache__
